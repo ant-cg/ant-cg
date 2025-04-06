@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎮 Gamer<br>🤖 Soft Developer Student <br>🎨 Artist<br><br>🛠️ Skills:<br>- Programming (Java, Python, C#, C++)<br>- 3D art (Maya, Blender, Zbrush, Substance, etc.)<br>- Game engines (Unity, Unreal Engine, Godot)<br><br>🌱 I’m currently learning C# and C++ and C(hinese)<br>
+🎮 Gamer<br>🤖 Soft Developer Student <br>🎨 2D/3D Artist<br><br>🛠️ Skills:<br>- Programming (Java, C#, C++)<br>- 3D art (Maya, Blender, Zbrush, Substance, etc.)<br>- Game engines (Unity, Unreal Engine, Godot)<br><br>🌱 I’m currently learning C# and C++ and C(hinese)<br>
 
 
 # 💻 Tech Stack:
